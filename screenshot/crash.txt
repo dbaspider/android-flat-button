@@ -1,0 +1,205 @@
+2021-04-22 13:24:56.925 10643-10643/info.hoang8f.fbutton.demo I/8f.fbutton.dem: The ClassLoaderContext is a special shared library.
+2021-04-22 13:24:56.929 10643-10680/info.hoang8f.fbutton.demo I/HwApiCacheMangerEx: apicache path=/storage/emulated/0 state=mounted key=info.hoang8f.fbutton.demo#10158#256
+2021-04-22 13:24:56.931 10643-10680/info.hoang8f.fbutton.demo I/HwApiCacheMangerEx: apicache path=/storage/emulated/0 state=mounted key=info.hoang8f.fbutton.demo#10158#0
+2021-04-22 13:24:56.995 10643-10680/info.hoang8f.fbutton.demo I/AwareBitmapCacher: init processName:info.hoang8f.fbutton.demo pid=10643 uid=10158
+2021-04-22 13:24:56.996 10643-10643/info.hoang8f.fbutton.demo D/ZrHung.AppEyeUiProbe: notify runnable to start.
+2021-04-22 13:24:56.999 10643-10697/info.hoang8f.fbutton.demo D/ZrHung.AppEyeUiProbe: Runnable thread started.
+2021-04-22 13:24:57.001 10643-10643/info.hoang8f.fbutton.demo V/ActivityThread: Skipping new config:{1.0 ?mcc?mnc [zh_CN_#Hans] ldltr sw360dp w360dp h656dp 480dpi nrml long hdr port finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 0, 0) mAppBounds=Rect(0, 0 - 1080, 2040) mWindowingMode=fullscreen mActivityType=undefined} nonFullScreen=0 suim:1 s.7}, config:{1.0 ?mcc?mnc [zh_CN_#Hans] ldltr sw360dp w360dp h656dp 480dpi nrml long hdr port finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 0, 0) mAppBounds=Rect(0, 0 - 1080, 2040) mWindowingMode=fullscreen mActivityType=undefined} nonFullScreen=0 suim:1 s.7} for app:info.hoang8f.fbutton.demo
+2021-04-22 13:24:57.002 10643-10697/info.hoang8f.fbutton.demo D/IMonitor: Load library imonitor_jni
+2021-04-22 13:24:57.007 10643-10680/info.hoang8f.fbutton.demo E/MemoryLeakMonitorManager: MemoryLeakMonitor.jar is not exist!
+2021-04-22 13:24:57.015 10643-10696/info.hoang8f.fbutton.demo E/AwareLog: AtomicFileUtils: readFileLines file not exist: android.util.AtomicFile@c514f84
+2021-04-22 13:24:57.017 10643-10696/info.hoang8f.fbutton.demo E/AwareLog: AtomicFileUtils: readFileLines file not exist: android.util.AtomicFile@8f1436d
+2021-04-22 13:24:57.041 10643-10643/info.hoang8f.fbutton.demo V/HwPolicyFactory: : success to get AllImpl object and return....
+2021-04-22 13:24:57.045 10643-10643/info.hoang8f.fbutton.demo V/ActivityThread: callActivityOnCreate
+2021-04-22 13:24:57.071 10643-10643/info.hoang8f.fbutton.demo I/HwApsImpl: APS: new HwApsImpl created
+2021-04-22 13:24:57.078 10643-10643/info.hoang8f.fbutton.demo V/HwWidgetFactory: : successes to get AllImpl object and return....
+2021-04-22 13:24:57.079 10643-10643/info.hoang8f.fbutton.demo I/HwPhoneWindow: updateLayoutParamsColor false mSpecialSet=false, mForcedNavigationBarColor=false, navigationBarColor=0, mNavBarShow=false, mIsFloating=false
+2021-04-22 13:24:57.080 10643-10643/info.hoang8f.fbutton.demo I/HwPhoneWindow: updateLayoutParamsColor true mSpecialSet=false, mForcedNavigationBarColor=false, navigationBarColor=ff000000, mNavBarShow=false, mIsFloating=false
+2021-04-22 13:24:57.100 10643-10643/info.hoang8f.fbutton.demo I/OverScrollerOptimization: start init SmartSlideOverScroller and get the overscroller config
+2021-04-22 13:24:57.100 10643-10643/info.hoang8f.fbutton.demo I/OverScrollerOptimization: get the overscroller config
+2021-04-22 13:24:57.101 10643-10643/info.hoang8f.fbutton.demo I/FLTAG_FM: loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:24:57.102 10643-10643/info.hoang8f.fbutton.demo I/FLTAG_SFM: getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:24:57.102 10643-10643/info.hoang8f.fbutton.demo D/FeatureFactory: loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:24:57.102 10643-10643/info.hoang8f.fbutton.demo D/FeatureFactory: loadFeature() new IHwSplineOverScrollerEx()
+2021-04-22 13:24:57.102 10643-10643/info.hoang8f.fbutton.demo D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@496ec6,android.support.v7.view.ContextThemeWrapper@228ae87
+2021-04-22 13:24:57.102 10643-10643/info.hoang8f.fbutton.demo D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl: mScrollerVelocity is 0, value is 0
+2021-04-22 13:24:57.103 10643-10643/info.hoang8f.fbutton.demo I/FLTAG_FM: loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:24:57.103 10643-10643/info.hoang8f.fbutton.demo I/FLTAG_SFM: getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:24:57.103 10643-10643/info.hoang8f.fbutton.demo D/FeatureFactory: loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:24:57.103 10643-10643/info.hoang8f.fbutton.demo D/FeatureFactory: loadFeature() new IHwSplineOverScrollerEx()
+2021-04-22 13:24:57.104 10643-10643/info.hoang8f.fbutton.demo D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@2d7ac23,android.support.v7.view.ContextThemeWrapper@228ae87
+2021-04-22 13:24:57.104 10643-10643/info.hoang8f.fbutton.demo D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl: mScrollerVelocity is 0, value is 0
+2021-04-22 13:24:57.146 10643-10643/info.hoang8f.fbutton.demo W/8f.fbutton.dem: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (light greylist, reflection)
+2021-04-22 13:24:57.147 10643-10643/info.hoang8f.fbutton.demo W/8f.fbutton.dem: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (light greylist, reflection)
+2021-04-22 13:24:57.154 10643-10643/info.hoang8f.fbutton.demo D/TextView: get Display Panel Type is : 1
+2021-04-22 13:24:57.165 10643-10643/info.hoang8f.fbutton.demo I/FLTAG_FM: loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:24:57.165 10643-10643/info.hoang8f.fbutton.demo I/FLTAG_SFM: getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:24:57.165 10643-10643/info.hoang8f.fbutton.demo D/FeatureFactory: loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:24:57.165 10643-10643/info.hoang8f.fbutton.demo D/FeatureFactory: loadFeature() new IHwSplineOverScrollerEx()
+2021-04-22 13:24:57.165 10643-10643/info.hoang8f.fbutton.demo D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@db11576,info.hoang8f.fbutton.demo.MainActivity@65a5033
+2021-04-22 13:24:57.166 10643-10643/info.hoang8f.fbutton.demo D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl: mScrollerVelocity is 0, value is 0
+2021-04-22 13:24:57.166 10643-10643/info.hoang8f.fbutton.demo I/FLTAG_FM: loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:24:57.166 10643-10643/info.hoang8f.fbutton.demo I/FLTAG_SFM: getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:24:57.166 10643-10643/info.hoang8f.fbutton.demo D/FeatureFactory: loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:24:57.166 10643-10643/info.hoang8f.fbutton.demo D/FeatureFactory: loadFeature() new IHwSplineOverScrollerEx()
+2021-04-22 13:24:57.166 10643-10643/info.hoang8f.fbutton.demo D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@d911302,info.hoang8f.fbutton.demo.MainActivity@65a5033
+2021-04-22 13:24:57.167 10643-10643/info.hoang8f.fbutton.demo D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl: mScrollerVelocity is 0, value is 0
+2021-04-22 13:24:57.179 10643-10643/info.hoang8f.fbutton.demo D/AndroidRuntime: Shutting down VM
+2021-04-22 13:24:57.185 10643-10643/info.hoang8f.fbutton.demo E/AndroidRuntime: FATAL EXCEPTION: main
+    Process: info.hoang8f.fbutton.demo, PID: 10643
+    java.lang.RuntimeException: Unable to start activity ComponentInfo{info.hoang8f.fbutton.demo/info.hoang8f.fbutton.demo.MainActivity}: android.view.InflateException: Binary XML file line #23: Binary XML file line #23: Error inflating class info.hoang8f.widget.FButton
+        at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+        at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+        at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+        at android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+        at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+        at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+        at android.os.Handler.dispatchMessage(Handler.java:112)
+        at android.os.Looper.loop(Looper.java:216)
+        at android.app.ActivityThread.main(ActivityThread.java:7625)
+        at java.lang.reflect.Method.invoke(Native Method)
+        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+     Caused by: android.view.InflateException: Binary XML file line #23: Binary XML file line #23: Error inflating class info.hoang8f.widget.FButton
+     Caused by: android.view.InflateException: Binary XML file line #23: Error inflating class info.hoang8f.widget.FButton
+     Caused by: java.lang.reflect.InvocationTargetException
+        at java.lang.reflect.Constructor.newInstance0(Native Method)
+        at java.lang.reflect.Constructor.newInstance(Constructor.java:343)
+        at android.view.LayoutInflater.createView(LayoutInflater.java:658)
+        at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:801)
+        at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:741)
+        at android.view.LayoutInflater.rInflate(LayoutInflater.java:874)
+        at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:835)
+        at android.view.LayoutInflater.rInflate(LayoutInflater.java:877)
+        at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:835)
+        at android.view.LayoutInflater.rInflate(LayoutInflater.java:877)
+        at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:835)
+        at android.view.LayoutInflater.inflate(LayoutInflater.java:515)
+        at android.view.LayoutInflater.inflate(LayoutInflater.java:423)
+        at android.view.LayoutInflater.inflate(LayoutInflater.java:374)
+        at android.support.v7.app.AppCompatDelegateImpl.setContentView(AppCompatDelegateImpl.java:469)
+        at android.support.v7.app.AppCompatActivity.setContentView(AppCompatActivity.java:140)
+        at info.hoang8f.fbutton.demo.MainActivity.onCreate(MainActivity.java:37)
+        at android.app.Activity.performCreate(Activity.java:7458)
+        at android.app.Activity.performCreate(Activity.java:7448)
+        at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1286)
+        at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3409)
+        at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+        at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+        at android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+        at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+        at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+        at android.os.Handler.dispatchMessage(Handler.java:112)
+        at android.os.Looper.loop(Looper.java:216)
+        at android.app.ActivityThread.main(ActivityThread.java:7625)
+        at java.lang.reflect.Method.invoke(Native Method)
+        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+     Caused by: java.lang.UnsupportedOperationException: Can't convert value at index 3 to dimension: type=0x12
+        at android.content.res.TypedArray.getDimensionPixelSize(TypedArray.java:784)
+2021-04-22 13:24:57.185 10643-10643/info.hoang8f.fbutton.demo E/AndroidRuntime:     at info.hoang8f.widget.FButton.parseAttrs(FButton.java:121)
+        at info.hoang8f.widget.FButton.<init>(FButton.java:52)
+        	... 32 more
+2021-04-22 13:24:57.196 10643-10643/info.hoang8f.fbutton.demo I/Process: Sending signal. PID: 10643 SIG: 9
+2021-04-22 13:25:04.529 10906-10927/info.hoang8f.fbutton.demo I/HwApiCacheMangerEx: apicache path=/storage/emulated/0 state=mounted key=info.hoang8f.fbutton.demo#10158#256
+2021-04-22 13:25:04.530 10906-10906/info.hoang8f.fbutton.demo I/8f.fbutton.dem: The ClassLoaderContext is a special shared library.
+2021-04-22 13:25:04.530 10906-10927/info.hoang8f.fbutton.demo I/HwApiCacheMangerEx: apicache path=/storage/emulated/0 state=mounted key=info.hoang8f.fbutton.demo#10158#0
+2021-04-22 13:25:04.592 10906-10927/info.hoang8f.fbutton.demo I/AwareBitmapCacher: init processName:info.hoang8f.fbutton.demo pid=10906 uid=10158
+2021-04-22 13:25:04.595 10906-10906/info.hoang8f.fbutton.demo D/ZrHung.AppEyeUiProbe: notify runnable to start.
+2021-04-22 13:25:04.597 10906-10935/info.hoang8f.fbutton.demo D/ZrHung.AppEyeUiProbe: Runnable thread started.
+2021-04-22 13:25:04.598 10906-10906/info.hoang8f.fbutton.demo V/ActivityThread: Skipping new config:{1.0 ?mcc?mnc [zh_CN_#Hans] ldltr sw360dp w360dp h656dp 480dpi nrml long hdr port finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 0, 0) mAppBounds=Rect(0, 0 - 1080, 2040) mWindowingMode=fullscreen mActivityType=undefined} nonFullScreen=0 suim:1 s.7}, config:{1.0 ?mcc?mnc [zh_CN_#Hans] ldltr sw360dp w360dp h656dp 480dpi nrml long hdr port finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 0, 0) mAppBounds=Rect(0, 0 - 1080, 2040) mWindowingMode=fullscreen mActivityType=undefined} nonFullScreen=0 suim:1 s.7} for app:info.hoang8f.fbutton.demo
+2021-04-22 13:25:04.600 10906-10935/info.hoang8f.fbutton.demo D/IMonitor: Load library imonitor_jni
+2021-04-22 13:25:04.606 10906-10927/info.hoang8f.fbutton.demo E/MemoryLeakMonitorManager: MemoryLeakMonitor.jar is not exist!
+2021-04-22 13:25:04.612 10906-10936/info.hoang8f.fbutton.demo E/AwareLog: AtomicFileUtils: readFileLines file not exist: android.util.AtomicFile@c514f84
+2021-04-22 13:25:04.613 10906-10936/info.hoang8f.fbutton.demo E/AwareLog: AtomicFileUtils: readFileLines file not exist: android.util.AtomicFile@8f1436d
+2021-04-22 13:25:04.628 10906-10906/info.hoang8f.fbutton.demo V/HwPolicyFactory: : success to get AllImpl object and return....
+2021-04-22 13:25:04.631 10906-10906/info.hoang8f.fbutton.demo V/ActivityThread: callActivityOnCreate
+2021-04-22 13:25:04.650 10906-10906/info.hoang8f.fbutton.demo I/HwApsImpl: APS: new HwApsImpl created
+2021-04-22 13:25:04.657 10906-10906/info.hoang8f.fbutton.demo V/HwWidgetFactory: : successes to get AllImpl object and return....
+2021-04-22 13:25:04.658 10906-10906/info.hoang8f.fbutton.demo I/HwPhoneWindow: updateLayoutParamsColor false mSpecialSet=false, mForcedNavigationBarColor=false, navigationBarColor=0, mNavBarShow=false, mIsFloating=false
+2021-04-22 13:25:04.658 10906-10906/info.hoang8f.fbutton.demo I/HwPhoneWindow: updateLayoutParamsColor true mSpecialSet=false, mForcedNavigationBarColor=false, navigationBarColor=ff000000, mNavBarShow=false, mIsFloating=false
+2021-04-22 13:25:04.674 10906-10906/info.hoang8f.fbutton.demo I/OverScrollerOptimization: start init SmartSlideOverScroller and get the overscroller config
+2021-04-22 13:25:04.674 10906-10906/info.hoang8f.fbutton.demo I/OverScrollerOptimization: get the overscroller config
+2021-04-22 13:25:04.676 10906-10906/info.hoang8f.fbutton.demo I/FLTAG_FM: loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:25:04.676 10906-10906/info.hoang8f.fbutton.demo I/FLTAG_SFM: getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:25:04.676 10906-10906/info.hoang8f.fbutton.demo D/FeatureFactory: loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:25:04.676 10906-10906/info.hoang8f.fbutton.demo D/FeatureFactory: loadFeature() new IHwSplineOverScrollerEx()
+2021-04-22 13:25:04.676 10906-10906/info.hoang8f.fbutton.demo D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@496ec6,android.support.v7.view.ContextThemeWrapper@228ae87
+2021-04-22 13:25:04.677 10906-10906/info.hoang8f.fbutton.demo D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl: mScrollerVelocity is 0, value is 0
+2021-04-22 13:25:04.678 10906-10906/info.hoang8f.fbutton.demo I/FLTAG_FM: loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:25:04.678 10906-10906/info.hoang8f.fbutton.demo I/FLTAG_SFM: getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:25:04.678 10906-10906/info.hoang8f.fbutton.demo D/FeatureFactory: loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:25:04.678 10906-10906/info.hoang8f.fbutton.demo D/FeatureFactory: loadFeature() new IHwSplineOverScrollerEx()
+2021-04-22 13:25:04.678 10906-10906/info.hoang8f.fbutton.demo D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@2d7ac23,android.support.v7.view.ContextThemeWrapper@228ae87
+2021-04-22 13:25:04.678 10906-10906/info.hoang8f.fbutton.demo D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl: mScrollerVelocity is 0, value is 0
+2021-04-22 13:25:04.709 10906-10906/info.hoang8f.fbutton.demo W/8f.fbutton.dem: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (light greylist, reflection)
+2021-04-22 13:25:04.710 10906-10906/info.hoang8f.fbutton.demo W/8f.fbutton.dem: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (light greylist, reflection)
+2021-04-22 13:25:04.716 10906-10906/info.hoang8f.fbutton.demo D/TextView: get Display Panel Type is : 1
+2021-04-22 13:25:04.724 10906-10906/info.hoang8f.fbutton.demo I/FLTAG_FM: loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:25:04.725 10906-10906/info.hoang8f.fbutton.demo I/FLTAG_SFM: getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:25:04.725 10906-10906/info.hoang8f.fbutton.demo D/FeatureFactory: loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:25:04.725 10906-10906/info.hoang8f.fbutton.demo D/FeatureFactory: loadFeature() new IHwSplineOverScrollerEx()
+2021-04-22 13:25:04.725 10906-10906/info.hoang8f.fbutton.demo D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@db11576,info.hoang8f.fbutton.demo.MainActivity@65a5033
+2021-04-22 13:25:04.725 10906-10906/info.hoang8f.fbutton.demo D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl: mScrollerVelocity is 0, value is 0
+2021-04-22 13:25:04.725 10906-10906/info.hoang8f.fbutton.demo I/FLTAG_FM: loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:25:04.725 10906-10906/info.hoang8f.fbutton.demo I/FLTAG_SFM: getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:25:04.725 10906-10906/info.hoang8f.fbutton.demo D/FeatureFactory: loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2021-04-22 13:25:04.726 10906-10906/info.hoang8f.fbutton.demo D/FeatureFactory: loadFeature() new IHwSplineOverScrollerEx()
+2021-04-22 13:25:04.726 10906-10906/info.hoang8f.fbutton.demo D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@d911302,info.hoang8f.fbutton.demo.MainActivity@65a5033
+2021-04-22 13:25:04.726 10906-10906/info.hoang8f.fbutton.demo D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl: mScrollerVelocity is 0, value is 0
+2021-04-22 13:25:04.737 10906-10906/info.hoang8f.fbutton.demo D/AndroidRuntime: Shutting down VM
+2021-04-22 13:25:04.741 10906-10906/info.hoang8f.fbutton.demo E/AndroidRuntime: FATAL EXCEPTION: main
+    Process: info.hoang8f.fbutton.demo, PID: 10906
+    java.lang.RuntimeException: Unable to start activity ComponentInfo{info.hoang8f.fbutton.demo/info.hoang8f.fbutton.demo.MainActivity}: android.view.InflateException: Binary XML file line #23: Binary XML file line #23: Error inflating class info.hoang8f.widget.FButton
+        at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+        at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+        at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+        at android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+        at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+        at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+        at android.os.Handler.dispatchMessage(Handler.java:112)
+        at android.os.Looper.loop(Looper.java:216)
+        at android.app.ActivityThread.main(ActivityThread.java:7625)
+        at java.lang.reflect.Method.invoke(Native Method)
+        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+     Caused by: android.view.InflateException: Binary XML file line #23: Binary XML file line #23: Error inflating class info.hoang8f.widget.FButton
+     Caused by: android.view.InflateException: Binary XML file line #23: Error inflating class info.hoang8f.widget.FButton
+     Caused by: java.lang.reflect.InvocationTargetException
+        at java.lang.reflect.Constructor.newInstance0(Native Method)
+        at java.lang.reflect.Constructor.newInstance(Constructor.java:343)
+        at android.view.LayoutInflater.createView(LayoutInflater.java:658)
+        at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:801)
+        at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:741)
+        at android.view.LayoutInflater.rInflate(LayoutInflater.java:874)
+        at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:835)
+        at android.view.LayoutInflater.rInflate(LayoutInflater.java:877)
+        at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:835)
+        at android.view.LayoutInflater.rInflate(LayoutInflater.java:877)
+        at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:835)
+        at android.view.LayoutInflater.inflate(LayoutInflater.java:515)
+        at android.view.LayoutInflater.inflate(LayoutInflater.java:423)
+        at android.view.LayoutInflater.inflate(LayoutInflater.java:374)
+        at android.support.v7.app.AppCompatDelegateImpl.setContentView(AppCompatDelegateImpl.java:469)
+        at android.support.v7.app.AppCompatActivity.setContentView(AppCompatActivity.java:140)
+        at info.hoang8f.fbutton.demo.MainActivity.onCreate(MainActivity.java:37)
+        at android.app.Activity.performCreate(Activity.java:7458)
+        at android.app.Activity.performCreate(Activity.java:7448)
+        at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1286)
+        at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3409)
+        at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+        at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+        at android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+        at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+        at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+        at android.os.Handler.dispatchMessage(Handler.java:112)
+        at android.os.Looper.loop(Looper.java:216)
+        at android.app.ActivityThread.main(ActivityThread.java:7625)
+        at java.lang.reflect.Method.invoke(Native Method)
+        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+     Caused by: java.lang.UnsupportedOperationException: Can't convert value at index 3 to dimension: type=0x12 at android.content.res.TypedArray.getDimensionPixelSize(TypedArray.java:784)
+2021-04-22 13:25:04.741 10906-10906/info.hoang8f.fbutton.demo E/AndroidRuntime:     at info.hoang8f.widget.FButton.parseAttrs(FButton.java:121)
+        at info.hoang8f.widget.FButton.<init>(FButton.java:52)
+        	... 32 more
+2021-04-22 13:25:04.749 10906-10906/info.hoang8f.fbutton.demo I/Process: Sending signal. PID: 10906 SIG: 9

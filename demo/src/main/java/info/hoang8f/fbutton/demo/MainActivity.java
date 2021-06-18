@@ -1,12 +1,13 @@
 package info.hoang8f.fbutton.demo;
 
+import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.ShareCompat;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.util.TypedValue;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -23,11 +24,10 @@ import com.larswerkman.holocolorpicker.SVBar;
 
 import info.hoang8f.widget.FButton;
 
-public class MainActivity extends ActionBarActivity
-        implements View.OnClickListener, CompoundButton.OnCheckedChangeListener, SeekBar.OnSeekBarChangeListener {
+public class MainActivity extends AppCompatActivity
+implements View.OnClickListener, CompoundButton.OnCheckedChangeListener, SeekBar.OnSeekBarChangeListener {
 
     private FButton twitterBtn;
-    private FButton disabledBtn;
     private TextView shadowHeight;
     private SeekBar shadowHeightBar;
 
@@ -36,6 +36,8 @@ public class MainActivity extends ActionBarActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         twitterBtn = (FButton) findViewById(R.id.f_twitter_button);
+
+        FButton disabledBtn;
         disabledBtn = (FButton) findViewById(R.id.disabled_button);
         Button changeColorBtn = (Button) findViewById(R.id.change_color_button);
         ToggleButton shadowSwitch = (ToggleButton) findViewById(R.id.enable_shadow_switch);
@@ -62,6 +64,7 @@ public class MainActivity extends ActionBarActivity
         return true;
     }
 
+    @SuppressLint("NonConstantResourceId")
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
@@ -84,6 +87,7 @@ public class MainActivity extends ActionBarActivity
         return super.onOptionsItemSelected(item);
     }
 
+    @SuppressLint("NonConstantResourceId")
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
@@ -103,6 +107,7 @@ public class MainActivity extends ActionBarActivity
                 picker.addOpacityBar(opacityBar);
                 picker.setOldCenterColor(twitterBtn.getButtonColor());
                 picker.setOnColorChangedListener(new ColorPicker.OnColorChangedListener() {
+                    @SuppressLint("SetTextI18n")
                     @Override
                     public void onColorChanged(int intColor) {
                         String hexColor = Integer.toHexString(intColor).toUpperCase();
@@ -125,6 +130,8 @@ public class MainActivity extends ActionBarActivity
                 });
                 builder.create().show();
                 break;
+            default:
+                break;
         }
     }
 
@@ -134,6 +141,7 @@ public class MainActivity extends ActionBarActivity
         updateShadowHeight(shadowHeightBar.getProgress());
     }
 
+    @SuppressLint("SetTextI18n")
     @Override
     public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
         shadowHeight.setText(progress + "dp");
